@@ -1,0 +1,19 @@
+Add assets folder in your desired app
+
+If assets folder is already there then just 
+add ttf files in the assets folder
+
+Open smali folder and you will find botX folder there
+add this botX folder in dex file with apk editor or 
+any app you like
+
+Copy the hook from hook.txt and paste it in
+MainActivity class of your desired app. I won't talk
+here about how to find it. After you open the
+MainActivity class file, search for onCreate method
+after you find onCreate select a perfect place to
+hook the dialog. Now i won't talk here about how
+to select perfect place to hook. Learn basic
+reverse engineering to learn this things.
+
+Happy Modding! 🤗

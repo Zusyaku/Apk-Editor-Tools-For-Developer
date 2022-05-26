@@ -1,0 +1,24 @@
+[BEGIN]
+Author : @BerojgaarAadmi
+Special Thanks : @apkunpacker
+Target : MT Manager 2.9.7 (21040202)
+
+Info:-
+All Offline Features 
+[CLASSES]
+
+{"classes_name":"classes.dex"}
+{"original":"0f ?? 31 ?? 00 ?? 3d ?? 86 00 1a"}
+{"replaced":"0f ?? 31 ?? 00 ?? 3c ?? 86 00 1a"}
+
+{"classes_name":"classes.dex"}
+{"original":"c2 ?? 31 ?? 00 ?? 39 ?? 8e 00 1a ?? 4c c9"}
+{"replaced":"c2 ?? 31 ?? 00 ?? 38 ?? 8e 00 1a ?? 4c c9"}
+
+{"classes_name":"classes.dex"}
+{"original":"71 20 aa 16 ?? 00 71 00 fd 54 00 00 0a ?? 38"}
+{"replaced":"71 20 aa 16 ?? 00 71 00 fd 54 00 00 0a ?? 39"}
+
+
+[END]
+

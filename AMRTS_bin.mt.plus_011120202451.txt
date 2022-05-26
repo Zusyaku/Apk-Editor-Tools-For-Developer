@@ -1,0 +1,22 @@
+[BEGIN]
+
+• Batch Delete will be unlocked
+• Official Version
+• Root only
+• More Hooks coming soon at t.me/AMRTSOFFICIAL
+
+
+VERSION:- 2.9.2 {STABLE}
+AUTHOR :- t.me/AMRTSYT
+
+OUR TELEGRAM CHANNEL:- t.me/AMRTSOFFICIAL
+
+[CLASSES]
+
+{"original":"71 00 42 8a 00 00 0a ?? 39 01 09 00"}
+{"replaced":"71 00 42 8a 00 00 0a ?? 38 01 09 00"}
+
+
+[END]
+
+Enjoy 🍻, Join our telegram Channel for more!
